@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "sujanghm.jpg"
   name             : "Sujan Ghimire"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  pronouns         : # "He/him"  
+  bio              : "Doctoral Researcher"
+  location         : "Turku,Finland"
+  employer         : "Åbo Akademi University"
+  uri              : "https://cellmig.org/"
   email            : "none@example.org" 
 
   # Academic websites
